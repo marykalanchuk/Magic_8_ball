@@ -1,4 +1,4 @@
-# Magic_8_ball
+# Magic 8 ball
 
 Консольная игра [Magic 8 ball](https://en.wikipedia.org/wiki/Magic_8-Ball) шар судьбы.
 Шуточный способ предсказать судьбу.
